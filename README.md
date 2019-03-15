@@ -9,5 +9,6 @@ Find here existing tools:
 2. BitBar: https://redd.it/6bwqua
 3. Dashboard: https://redd.it/8ars1c
 4. Workflow: https://workflow.is/workflows/e1ed11c60ee04011acb81564d963abcc
+5. Alfred: https://github.com/beet/alfred_noteplan_actions
 
 Feel free to submit a pull request. For questions write to hello@noteplan.co.
